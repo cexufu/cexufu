@@ -1,28 +1,37 @@
-# Cexu (Tony) Fu — AI & Platform Governance
+# Cexu Fu
 
-**AI Governance · Platform Policy · Safety Engineering · Evaluation**  
-I have initiated and devoted to data governance, social media ethics, and content trust and safety ever since 2020. Experiences include Kwai and Douyin.
-I intend to explore on **platform governance** systems: from **risk taxonomy & standards**, to **policy enforcement design**, **safety evaluation**, and **auditability**. Previous work spans **ByteDance (Douyin)** content standards, **Tencent** polarization/cocoon indices, and **Kuaishou** risk & privacy governance.
+**AI product builder focused on communication intelligence, public-opinion analysis, and platform governance.**
 
-**Focus Areas**
-- **Governance Architecture**: Risk taxonomy · multi-layer standards (user/account/content/agent) · lifecycle (record → adjudication → penalty → redemption)
-- **AIGC Safety**: multimodal standards (text/image/video/effects/agents), exemptions & edge cases
-- **Policy → Engineering**: reviewer/ML division of labor · explainability · rollout & rollback
-- **Evaluation & Benchmarks**: harmfulness/rationality/consistency/diversity; human-in-the-loop evaluation
-- **Integrity & Trust**: polarization, information cocoons, manipulation & coordinated behaviors
-- **Compliance & Transparency**: DPIA, transparency reporting, audit trails
+I build practical AI tools that help people turn messy information into clearer decisions: career diagnosis, content simulation, hotspot selection, audience analysis, and public-opinion strategy.
 
----
+[Personal site](https://cexufu.github.io) · [Email](mailto:fucx9501@outlook.com) · [LinkedIn](https://www.linkedin.com/in/cexu_fu)
 
-## Featured (Pinned soon)
-- **platform-governance-standards** — de-identified standard blueprints & risk taxonomy.
-- **aigc-safety-eval-bench** — evaluation tasks, rubrics, and human-in-the-loop protocols.
-- **governance-engineering-playbook** — reviewer/ML workflow, rollout, metrics & dashboards.
+## Featured Projects
+
+| Project | What it helps with | Status |
+| --- | --- | --- |
+| [Easy Comm](https://github.com/cexufu/easy-Comm) | AI PR and communication workspace for brands, founders, and content teams | Web beta |
+| [Content Simulator](https://github.com/cexufu/content_simulator) | Learn, reframe, fix, and deliver content in a target style | Deployable app |
+| [Resume Assessor](https://github.com/cexufu/resume_assessor) | Diagnose resume evidence, career direction, study planning, and ability gaps | MVP |
+| [Hot Topic Selector](https://github.com/cexufu/hot_topic_selector) | Match public hotspots with brand relevance and communication risk | Prototype |
+| [Opinion Events Selector](https://github.com/cexufu/Opinion-Events-Selector) | Select balanced opinion-event sets for social network and public opinion studies | Research tool |
+
+## Current Focus
+
+- **AI communication tools**: topic selection, audience analysis, content planning, and PR workflows.
+- **Public-opinion intelligence**: event selection, risk framing, stakeholder mapping, and narrative analysis.
+- **Platform governance**: content standards, trust and safety workflows, auditability, and evaluation.
+- **Career and education AI**: ability mapping, career direction analysis, and evidence-based resume diagnosis.
+
+## What I Care About
+
+- Tools should produce decisions, not just text.
+- AI outputs should separate facts, assumptions, uncertainty, and risk.
+- Public communication should be useful without being manipulative.
+- Governance systems should be explainable enough to audit and practical enough to operate.
 
 ## Contact
-📧 fucx9501@outlook.com · Open to **PhD supervision** & **joint research/industry projects** & **AI Work Opportunities**.
 
----
+Open to research collaboration, AI product work, and early users who want to test practical communication-intelligence tools.
 
-> **中文简介**  
-我致力于研究**平台治理技术**：从**风险分类与标准**、**策略与流程**，到**内容安全评估**与**可审计性**落地。覆盖 AIGC 多模态标准、人审/机审分工、上线与回滚机制、极化与信息茧房、合规与透明度报告等。欢迎学术导师与产业合作。
+**Email:** [fucx9501@outlook.com](mailto:fucx9501@outlook.com)
