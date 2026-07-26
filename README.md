@@ -1,6 +1,6 @@
 # Cexu Fu
 
-**AI product builder focused on communication intelligence, public-opinion analysis, and platform governance.**
+**AI product builder creating decision tools for communication intelligence, public-opinion analysis, and platform governance.**
 
 I build practical AI tools that help people turn messy information into clearer decisions: career diagnosis, content simulation, hotspot selection, audience analysis, and public-opinion strategy.
 
@@ -10,11 +10,12 @@ I build practical AI tools that help people turn messy information into clearer 
 
 | Project | What it helps with | Status |
 | --- | --- | --- |
-| [Easy Comm](https://github.com/cexufu/easy-Comm) | AI PR and communication workspace for brands, founders, and content teams | Web beta |
-| [Content Simulator](https://github.com/cexufu/content_simulator) | Learn, reframe, fix, and deliver content in a target style | Deployable app |
-| [Resume Assessor](https://github.com/cexufu/resume_assessor) | Diagnose resume evidence, career direction, study planning, and ability gaps | MVP |
-| [Hot Topic Selector](https://github.com/cexufu/hot_topic_selector) | Match public hotspots with brand relevance and communication risk | Prototype |
-| [Opinion Events Selector](https://github.com/cexufu/Opinion-Events-Selector) | Select balanced opinion-event sets for social network and public opinion studies | Research tool |
+| [Easy Comm](https://github.com/cexufu/easy-comm) | AI PR and communication workspace for brands, founders, and content teams | Web beta |
+| [Content Simulator](https://github.com/cexufu/content-simulator) | Learn, reframe, fix, and deliver content in a target style | Deployable app |
+| [Career Overview AI](https://github.com/cexufu/career-overview-ai) | Diagnose career evidence, direction, study planning, and ability gaps | MVP |
+| [Hot Topic Selector](https://github.com/cexufu/hot-topic-selector) | Match public hotspots with brand relevance and communication risk | Prototype |
+| [TONA Agent Studio](https://github.com/cexufu/tona-agent-studio) | Build and run local, no-code multi-agent workflows | MVP |
+| [Opinion Events Selector](https://github.com/cexufu/opinion-events-selector) | Select balanced opinion-event sets for social network and public opinion studies | Research tool |
 
 ## Current Focus
 
